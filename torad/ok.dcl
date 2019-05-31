@@ -1,0 +1,16 @@
+/*¡ï¡ï¡ï¡ï¡ïListDCL @ fsxm.bokee.com¡ï¡ï¡ï¡ï¡ï*/
+:dialog {
+    :toggle {
+        label = "¿ª¹Ø" ;
+    }
+    :boxed_column {
+        label = "¼Ó¿òÁÐ" ;
+        :edit_box {
+            label = "±à¼­¿ò1" ;
+        }
+        :edit_box {
+            label = "±à¼­¿ò2" ;
+        }
+    }
+    ok_cancel;
+}
